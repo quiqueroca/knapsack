@@ -26,5 +26,5 @@ jobs:
       - name: Install dependencies with uv
         run: uv sync
 
-      - name: Run tests
+      - name: 🧪 Run tests
         run: make test
