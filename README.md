@@ -5,6 +5,9 @@ This is a fun challenge where you can submit your own solution to this version o
 ## Leaderboard
 | Name       | Weight | Volume | Value |
 |------------|--------|--------|-------|
+| my_sack_3.csv | 10.69 | 11.47 | 939.88 |
+| my_sack_2.csv | 7.69 | 7.36 | 485.24 |
+| my_sack_1.csv | 3.30 | 4.69 | 312.62 |
 <!-- leaderboard:end -->
 ## The challenge
 Take a look to the [items](data/knapsack_items.csv) file to see the items you can choose from.
