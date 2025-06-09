@@ -16,6 +16,9 @@ Take into consideration that there are positive and negative combos!
 ## Leaderboard
 | Name       | Weight | Volume | Value |
 |------------|--------|--------|-------|
+| my_sack_3.csv | 10.69 | 11.47 | 939.88 |
+| my_sack_2.csv | 7.69 | 7.36 | 485.24 |
+| my_sack_1.csv | 3.30 | 4.69 | 312.62 |
 <!-- leaderboard:end -->
 ## How to contribute
 1. Create a file under [sacks](sacks/) directory with the name of your sack like `my_super_awesome_sack.csv`. This will be your submission name.
